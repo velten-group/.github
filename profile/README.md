@@ -5,9 +5,9 @@ We are a [research group at University Heidelberg](https://www.cos.uni-heidelber
 
 ## Tools
 
-*MOFA*
-<p align="center"> 
-<img src="figures/MOFA.png" style="width: 50%; height: 50%"/>​
+### MOFA
+<p align="left"> 
+<img src="figures/MOFA.png" style="width: 30%; height: 30%"/>​
 </p>
 
 - [Webpage](https://biofam.github.io/MOFA2/)
@@ -17,10 +17,10 @@ We are a [research group at University Heidelberg](https://www.cos.uni-heidelber
 - PyPI: [mofapy2](https://pypi.org/project/mofapy2/)
 - Bioconductor: [MOFA2](http://www.bioconductor.org/packages/release/bioc/html/MOFA2.html)
 
-* MEFISTO*
+### MEFISTO
 
-<p align="center"> 
-<img src="figures/MEFISTO.png" style="width: 50%; height: 50%"/>​
+<p align="left"> 
+<img src="figures/MEFISTO.png" style="width: 30%; height: 30%"/>​
 </p>
 
 - [Webpage](https://biofam.github.io/MOFA2/MEFISTO.html)
@@ -31,9 +31,9 @@ We are a [research group at University Heidelberg](https://www.cos.uni-heidelber
 
 
 
-*FISHFactor*
-<p align="center"> 
-<img src="figures/FISHFactor.png" style="width: 50%; height: 50%"/>​
+### FISHFactor
+<p align="left"> 
+<img src="figures/FISHFactor.png" style="width: 30%; height: 30%"/>​
 </p>
 
 - [GitHub page](https://github.com/bioFAM/FISHFactor)
