@@ -12,6 +12,7 @@ Multi-omics factor analysis | Integrating temporal and spatial omics data |
 | Publications: [general](http://msb.embopress.org/cgi/doi/10.15252/msb.20178124), [multi-group](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1)|[Publication](https://www.nature.com/articles/s41592-021-01343-9)|
 |Bioconductor: [MOFA2](http://www.bioconductor.org/packages/release/bioc/html/MOFA2.html)|Bioconductor: [MOFA2](http://www.bioconductor.org/packages/release/bioc/html/MOFA2.html)|
 |PyPI: [mofapy2](https://pypi.org/project/mofapy2/)|PyPI: [mofapy2](https://pypi.org/project/mofapy2/)|
+| |  | 
 | [<img alt="FISHFactor" src="figures/FISHFactor.png" width="400"/>](https://github.com/bioFAM/FISHFactor) ||
 |**FISHFactor** ||
 |Modelling spatial transcriptomic data <br /> with subcellular resolution | |
