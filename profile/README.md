@@ -14,7 +14,7 @@ Multi-omics factor analysis | Integrating temporal and spatial omics data |
 |PyPI: [mofapy2](https://pypi.org/project/mofapy2/)|PyPI: [mofapy2](https://pypi.org/project/mofapy2/)|
 | |  | 
 | [<img alt="FISHFactor" src="figures/FISHFactor.png" width="400"/>](https://github.com/bioFAM/FISHFactor) ||
-|**FISHFactor** ||
-|Modelling spatial transcriptomic data <br /> with subcellular resolution | |
-| [GitHub page](https://github.com/bioFAM/FISHFactor) ||
-| [Publication](https://academic.oup.com/bioinformatics/article/39/5/btad183/7114027)||
+|**FISHFactor** | **crispat**|
+|Modelling spatial transcriptomic data <br /> with subcellular resolution |  Guide assignment <br /> in single cell CRISPR screens|
+| [GitHub page](https://github.com/bioFAM/FISHFactor) |[GitHub page](https://github.com/velten-group/crispat) |
+| [Publication](https://academic.oup.com/bioinformatics/article/39/5/btad183/7114027)|[Preprint](https://www.biorxiv.org/content/10.1101/2024.05.06.592692v1.full.pdf)|
