@@ -18,3 +18,4 @@ Multi-omics factor analysis | Integrating temporal and spatial omics data |
 |Modelling spatial transcriptomic data <br /> with subcellular resolution |  Guide assignment <br /> in single cell CRISPR screens|
 | [GitHub page](https://github.com/bioFAM/FISHFactor) |[GitHub page](https://github.com/velten-group/crispat) |
 | [Publication](https://academic.oup.com/bioinformatics/article/39/5/btad183/7114027)|[Preprint](https://www.biorxiv.org/content/10.1101/2024.05.06.592692v1.full.pdf)|
+||PyPI: [crispat](https://pypi.org/project/crispat/)|
