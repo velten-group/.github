@@ -13,7 +13,7 @@ Multi-omics factor analysis | Integrating temporal and spatial omics data |
 |Bioconductor: [MOFA2](http://www.bioconductor.org/packages/release/bioc/html/MOFA2.html)|Bioconductor: [MOFA2](http://www.bioconductor.org/packages/release/bioc/html/MOFA2.html)|
 |PyPI: [mofapy2](https://pypi.org/project/mofapy2/)|PyPI: [mofapy2](https://pypi.org/project/mofapy2/)|
 | |  | 
-| [<img alt="FISHFactor" src="figures/FISHFactor.png" width="400"/>](https://github.com/bioFAM/FISHFactor) |[<img alt="crispat" src="figures/crispat.png" width="400"/>](https://github.com/velten-group/crispat)|
+| [<img alt="FISHFactor" src="../figures/FISHFactor.png" width="400"/>](https://github.com/bioFAM/FISHFactor) |[<img alt="crispat" src="../figures/crispat.png" width="400"/>](https://github.com/velten-group/crispat)|
 |**FISHFactor** | **crispat**|
 |Modelling spatial transcriptomic data <br /> with subcellular resolution |  Guide assignment <br /> in single cell CRISPR screens|
 | [GitHub page](https://github.com/bioFAM/FISHFactor) |[GitHub page](https://github.com/velten-group/crispat) |
