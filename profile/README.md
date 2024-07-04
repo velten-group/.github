@@ -4,7 +4,7 @@ We are a [research group at Heidelberg University](https://www.cos.uni-heidelber
 
 
 ## Computational tools
-| [<img alt="MOFA" src="figures/MOFA.png" width="400"/>](https://biofam.github.io/MOFA2/) | [<img alt="MEFISTO" src="figures/MEFISTO.png" width="400"/>](https://biofam.github.io/MOFA2/MEFISTO.html) |
+| [<img alt="MOFA" src="../figures/MOFA.png" width="400"/>](https://biofam.github.io/MOFA2/) | [<img alt="MEFISTO" src="../figures/MEFISTO.png" width="400"/>](https://biofam.github.io/MOFA2/MEFISTO.html) |
 | --- | --- | 
 | **MOFA** | **MEFISTO** |
 Multi-omics factor analysis | Integrating temporal and spatial omics data | 
